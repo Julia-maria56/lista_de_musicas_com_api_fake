@@ -1,0 +1,25 @@
+{
+  "musicas": [
+    {
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREi2HNoarxb_2vXPmnEr45nZFv9pUUlAe7uA&s",
+      "nome": "Would've, could've, should've",
+      "album": "Midnights",
+      "artista": "Taylor Swift",
+      "id": 1
+    },
+    {
+      "imagem": "https://preview.redd.it/12-years-ago-today-taylor-swift-released-22-v0-2v86os52yfoe1.jpg?width=640&crop=smart&auto=webp&s=bed1807d37750f1d20bcbe65c24e6e35627e1c0a",
+      "nome": "22",
+      "album": "Red",
+      "artista": "Taylor Swift",
+      "id": 2
+    },
+    {
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8S-AQu_B1m-45__aPKbkZzgVH8p_lMGgnvg&s",
+      "nome": "Me!",
+      "album": "Lover",
+      "artista": "Taylor Swift",
+      "id": 3
+    }
+  ]
+}
